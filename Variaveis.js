@@ -1,5 +1,5 @@
 let a= 5;
-let b = 6;
+let b = 6;'1                        '
 let c = 7; //let existe apenas no scopo atual
 var x = '7'; //var existe em todo o codigo
 const y = 2; //const valor so é atribuido 1 vez
