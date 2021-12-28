@@ -1,3 +1,5 @@
+//Variaveis com JavaScript
+
 let a= 5;
 let b = 6;                       
 let c = 7; //let existe apenas no scopo atual
