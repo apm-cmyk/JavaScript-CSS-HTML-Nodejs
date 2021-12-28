@@ -1,5 +1,5 @@
 let a= 5;
-let b = 6;'1                        '
+let b = 6;                       
 let c = 7; //let existe apenas no scopo atual
 var x = '7'; //var existe em todo o codigo
 const y = 2; //const valor so é atribuido 1 vez
@@ -20,3 +20,5 @@ let resultado1 = soma(a,b);
 let resultado2 = mult(a,b);
 console.log('resultado1: '+ (resultado1));
 console.log('resultado2: '+ (resultado2));
+
+
